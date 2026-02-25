@@ -30,5 +30,8 @@ public class LatihanRefleksi {
     for(angka=1;angka<6;angka++){
         System.out.print(angka + " ");
     }
+/* Menurut saya, yang paling mudah dipahami adalah for loop, karena saat menggunakan for loop,
+berapa kali pengulangannya sudah jelas, dibandingkan dengan do while dan while yang banyak perulangannya
+bergantung pada kondisi tertentu*/
     }  
 }
